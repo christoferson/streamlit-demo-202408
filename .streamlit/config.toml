@@ -1,11 +1,11 @@
 [theme]
 base="light"
-primaryColor="slateBlue"
-backgroundColor="mintCream"
-secondaryBackgroundColor="lavender"
-
+primaryColor="#667eea"
+backgroundColor="#f8f9fa"
+secondaryBackgroundColor="#e9ecef"
+textColor="#2c3e50"
+font="sans serif"
 
 [theme.sidebar]
-backgroundColor="aliceBlue"
-secondaryBackgroundColor="skyBlue"
-baseRadius="none"
+backgroundColor="#f1f3f4"
+secondaryBackgroundColor="#e8eaed"
